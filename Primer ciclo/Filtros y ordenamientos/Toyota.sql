@@ -1,2 +1,0 @@
-SELECT * FROM auto
-WHERE MODELO = 'Toyota';
