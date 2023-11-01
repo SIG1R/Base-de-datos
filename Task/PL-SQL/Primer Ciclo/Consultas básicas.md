@@ -21,7 +21,7 @@ SELECT nombre, direccion FROM cliente;
 
 El resultado de la sentencia se evidencia en un formato de tabla con los campos específicados, la imágen muestra solo 4 de los resultados totales.
 
-![[example select.png]]
+![Ejemplificación del comando SELECT](../Screenshots/example%20select.png)
 # Ejercicios
 
 1. Mostrar todos los clientes en la tabla "Cliente".
