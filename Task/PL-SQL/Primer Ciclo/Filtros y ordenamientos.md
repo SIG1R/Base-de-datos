@@ -12,7 +12,8 @@ SELECT * FROM ClientePLSQL
 WHERE nombre = 'Ricky Owens' OR nombre = 'Aaron Beard';
 ```
 
-![[example WHERE.png]]
+![SELECT cliente](../Screenshots/example%20WHERE.png)
+
 # Ejercicios
 
 1. Mostrar los clientes que se llaman "Juan".
@@ -22,7 +23,7 @@ SELECT * FROM ClientePLSQL
 WHERE nombre = 'Juan';
 ```
 
-![[only juan.png]]
+![SELECT Juan](../Screenshots/only%20juan.png)
 
 2. Mostrar los autos de marca "Toyota".
 
@@ -31,7 +32,7 @@ SELECT * FROM AutoPLSQL
 WHERE marca = 'Toyota';
 ```
 
-![[only Toyota.png]]
+![SELECT Toyota](../Screenshots/only%20Toyota.png)
 
 3. Mostrar los alquileres que ocurrieron después de una fecha específica.
 
@@ -40,7 +41,7 @@ SELECT * FROM AutoPLSQL
 WHERE ano < 2012; -- 2012 es un año de ejemlpo, no debe ser ese necesariamente
 ```
 
-![[only year.png]]
+![SELECT año 2012](../Screenshots/only%20year.png)
 
 4. Mostrar las sucursales ubicadas en "Madrid".
 
@@ -49,7 +50,7 @@ SELECT * FROM SucursalPLSQL
 WHERE ciudad = 'Madrid';
 ```
 
-![[only city.png]]
+![SELECT Madrid](../Screenshots/only%20city.png)
 
 5. Mostrar las reservas realizadas por un cliente específico.
    
@@ -59,5 +60,6 @@ SELECT * FROM ReservaPLSQL
 WHERE id_cliente = 570; -- 570 es solo un ejemplo, no debe ser ese necesariamente
 ```
 
+![SELECT clientID](../Screenshots/only%20clientid.png)
 
 

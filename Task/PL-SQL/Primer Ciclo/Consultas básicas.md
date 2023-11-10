@@ -21,7 +21,7 @@ SELECT nombre, direccion FROM cliente;
 
 El resultado de la sentencia se evidencia en un formato de tabla con los campos específicados, la imágen muestra solo 4 de los resultados totales.
 
-![Ejemplificación del comando SELECT](../Screenshots/example%20select.png)
+![Ejemplificación del comando SELECT](../Screenshots/example%20SELECT.png)
 # Ejercicios
 
 1. Mostrar todos los clientes en la tabla "Cliente".
@@ -30,7 +30,7 @@ El resultado de la sentencia se evidencia en un formato de tabla con los campos 
 SELECT * FROM ClientePLSQL;
 ```
 
-![[all for cliente.png]]
+![SELECT cliente](../Screenshots/all%20for%20cliente.png)
 
 2. Mostrar todos los autos en la tabla "Auto".
 
@@ -38,15 +38,16 @@ SELECT * FROM ClientePLSQL;
 SELECT * FROM AutoPLSQL;
 ```
 
-![[all for auto.png]]
+![SELECT cliente](../Screenshots/all%20for%20auto.png)
 
 3. Mostrar todos los alquileres en la tabla "Alquiler".
 
 ```sql
-SELECT * FROM AutoPLSQL;
+SELECT * FROM AlquilerPLSQL;
 ```
 
-![[all for alquiler.png]]
+![SELECT cliente](../Screenshots/all%20for%20alquiler.png)
+
 
 4. Mostrar todas las sucursales en la tabla "Sucursal".
 
@@ -54,7 +55,8 @@ SELECT * FROM AutoPLSQL;
 SELECT * FROM SucursalPLSQL;
 ```
 
-![[all for sucursal.png]]
+![SELECT cliente](../Screenshots/all%20for%20sucursal.png)
+
 
 5. Mostrar todas las reservas en la tabla "Reserva".
 
@@ -62,5 +64,5 @@ SELECT * FROM SucursalPLSQL;
 SELECT * FROM ReservaPLSQL;
 ```
 
-  ![[all for reserva.png]]
+ ![SELECT cliente](../Screenshots/all%20for%20reserva.png)
   
