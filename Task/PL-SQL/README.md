@@ -1,4 +1,6 @@
-Este repositorio tiene como objetivo explicar el funcionamiento de las diferentes sentencias para el manejo del lenguaje SQL, en este caso estaremos usando PL/SQL.
+Este repositorio tiene como objetivo explicar el funcionamiento de las diferentes sentencias para el manejo de base de datos SQL, en este caso estaremos usando PL/SQL.
+
+De igual forma es importante aclarar que en las sentencias que devuelven demasiados datos, solo se mostrarán algunos de estos registros por temas de practicidad.
 
 # Estructura de repositorio
 

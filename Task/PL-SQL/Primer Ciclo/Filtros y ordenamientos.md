@@ -61,5 +61,3 @@ WHERE id_cliente = 570; -- 570 es solo un ejemplo, no debe ser ese necesariament
 ```
 
 ![SELECT clientID](../Screenshots/only%20clientid.png)
-
-

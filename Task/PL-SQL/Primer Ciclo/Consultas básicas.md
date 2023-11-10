@@ -64,10 +64,5 @@ SELECT * FROM SucursalPLSQL;
 SELECT * FROM ReservaPLSQL;
 ```
 
-<<<<<<< HEAD
- ![SELECT cliente](../Screenshots/all%20for%20reserva.png)
-  
-=======
-  ![[all for reserva.png]]
-  
->>>>>>> e4cb5815fa48a5ae8ea07d65106a02a5b3918cfa
+![SELECT cliente](../Screenshots/all%20for%20reserva.png)
+
