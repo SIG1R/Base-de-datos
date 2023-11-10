@@ -30,7 +30,7 @@ El resultado de la sentencia se evidencia en un formato de tabla con los campos 
 SELECT * FROM ClientePLSQL;
 ```
 
-![[all%20for%20cliente.png]]
+![SELECT cliente](../Screenshots/all%20for%20cliente.png)
 
 2. Mostrar todos los autos en la tabla "Auto".
 
