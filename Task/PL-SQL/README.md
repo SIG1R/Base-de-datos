@@ -4,20 +4,19 @@ De igual forma es importante aclarar que en las sentencias que devuelven demasia
 
 # Estructura de repositorio
 
-Vamos a manejar 3 ciclos diferentes, en cada ciclo se explican diferentes sentencias SQL empezando desde comandos o sentencias básicas hasta sentencias más "complejas". Va a haber una carpeta por cada ciclo.
-
-
-
+Vamos a manejar 3 ciclos diferentes, en cada ciclo se realizan ejercicios referentes a diferentes sentencias SQL empezando desde comandos o sentencias básicas hasta sentencias más "complejas". Va a haber una carpeta por cada ciclo.
 
 # Estructura de las tablas
 
 Los ejercicios de cada ciclo se manejarán bajo las siguientes tablas.
 
-* Cliente: Almacena información sobre los clientes, como su nombre, dirección y número de teléfono. 
-* Auto: Almacena información sobre los autos, como su marca, modelo y año. 
-* Alquiler: Almacena información sobre los alquileres, como la fecha de inicio, la fecha de finalización y el auto alquilado. 
-* Sucursal: Almacena información sobre las sucursales, como su nombre, ciudad y país.
-* Reserva: Almacena información sobre las reservas, como la fecha de la reserva y la sucursal en la que se realizó la reserva.
+| Variable   | Descripción                                                                                                   |
+|------------|---------------------------------------------------------------------------------------------------------------|
+| Cliente    | Almacena información sobre los clientes, como su nombre, dirección y número de teléfono.                      |
+| Auto       | Almacena información sobre los autos, como su marca, modelo y año.                                           |
+| Alquiler   | Almacena información sobre los alquileres, como la fecha de inicio, la fecha de finalización y el auto alquilado.|
+| Sucursal   | Almacena información sobre las sucursales, como su nombre, ciudad y país.                                      |
+| Reserva    | Almacena información sobre las reservas, como la fecha de la reserva y la sucursal en la que se realizó la reserva.|
 
 ## DML para crear las tablas
 ### Tabla de clientes
